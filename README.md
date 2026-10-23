@@ -116,7 +116,8 @@ technology, and wireless power transfer.
 6. The prototype's output and operating behavior are evaluated.
 
 ## Flowchart
-<img width="1416" height="2124" alt="image" src="https://github.com/user-attachments/assets/94fee2dd-129a-4788-8949-2370c97d4ac2" />
+<img width="668" height="951" alt="image" src="https://github.com/user-attachments/assets/4e470e69-4d64-4bd6-a5a2-0e7660a9b03e" />
+
 
 ## Challenges and Limitations
 
@@ -161,5 +162,5 @@ status updates such as slot availability, RFID approval, and charging operation.
 
 - `docs/` - Project documentation
 - `hardware/` - Circuit diagrams and component details
-- `firmware/` - Controller source code
+- `srccode/` - Controller source code
 - `images/` - Hardware photographs
